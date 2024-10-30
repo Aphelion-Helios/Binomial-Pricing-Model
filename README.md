@@ -1,2 +1,2 @@
-# Binomial-Pricing-Model
-Binomial Pricing Model
+# Binomial Option Pricing Model
+-American Options Pricing
